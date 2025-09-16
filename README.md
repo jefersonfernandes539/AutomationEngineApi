@@ -1,4 +1,4 @@
-Automation Engine API (NestJS)
+📌 Automation Engine API (NestJS)
 
 API Backend desenvolvida em NestJS que atua como orquestrador de jobs.
 Ela publica mensagens no Kafka para que o Worker em C# (RPA/Jobs) processe os dados e salve resultados no banco de dados (Postgres).
